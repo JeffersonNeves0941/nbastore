@@ -1,45 +1,61 @@
 :root {
-    --primary-color: (to right #CC2229, #33348E);
+    --primary-color: linear-gradient(45deg, orange, purple, green)
     --secundary-color: blue;
 
 }
+header{
+    height: 170px;
+    background-color: #33348E;
+    display:flex ;
+    align-items: center;
+    justify-content: space-between;
+}
 .nav-bar img{
+    height:66px ;
     width: 66px;
-    height:66px;
+    margin: 30px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
 .direcao img{
-    display:flex;
-    margin:20px;
-    margin-left:1100px;
-    margin-top:1px;
+    margin:1200px;
+}
+.quadradao{
+    height: 950px;
+    width: 1450px;
+    background-color: white;
+    margin-top:220px;
+    margin-left: 530px; 
+
+}
+.jersey{
+    margin-left:100px ;
+    position: absolute;
+    z-index: -1;
+}
+.jersey img{
+    width: 90vw;
+    height: 50vh;
+}
+
+
+
+
+
+
+
+
+    
+    
+
+
+
 
     
 
 
-}
 
 
-.jerseys img{
-    width:1132px;
-    height: 379px;
-    margin-left: 600px;
-    margin-top:50px;
 
 
-}
+
+
