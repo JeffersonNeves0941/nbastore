@@ -1,0 +1,45 @@
+:root {
+    --primary-color: (to right #CC2229, #33348E);
+    --secundary-color: blue;
+
+}
+.nav-bar img{
+    width: 66px;
+    height:66px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+.direcao img{
+    display:flex;
+    margin:20px;
+    margin-left:1100px;
+    margin-top:1px;
+
+    
+
+
+}
+
+
+.jerseys img{
+    width:1132px;
+    height: 379px;
+    margin-left: 600px;
+    margin-top:50px;
+
+
+}
